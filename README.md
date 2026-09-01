@@ -62,16 +62,15 @@ Running cumulative totals, city spend rankings, per-transaction contribution to 
 
 
 ## 💡 Key Findings
+Top-spending city: Greater Mumbai accounted for 14.15% of total spend (Query 5).
 
-* Top-spending city: Greater Mumbai accounted for 14.15% of total spend (Query 5)
+Highest-spend card type: Silver, with total spend of ₹1,069,613,713 (Query 2).
 
-* Highest-spend card type: Silver, with total spend of ₹1,069,613,713 (Query 2)
+Highest female spend contribution: Bills, with females contributing 63.95% of category spend (Query 18).
 
-* Highest female spend contribution: Bills, with females contributing 63.95% of category spend (Query 18)
+Month-over-month analysis: The highest visible growth was 11.59% in December 2013 (Query 16).
 
-* Month-over-month analysis showed a maximum visible growth of 11.59% in December 2013 (Query 16)
-
-* Used SQL window functions to calculate running cumulative spend by city over time (Query 13)
+Advanced SQL analysis: Used SQL window functions to calculate running cumulative spend by city over time (Query 13).
 
 
   ## 📁 Repo Structure

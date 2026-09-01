@@ -67,6 +67,7 @@ Running cumulative totals, city spend rankings, per-transaction contribution to 
 
  ## 📁 Repo Structure
 
+\`\`\`
 credit-card-analytics/
 ├── DATA/
 │   ├── credit_card_transactions_raw.csv
@@ -75,4 +76,4 @@ credit-card-analytics/
 ├── queries.sql
 ├── Credit_Card_Analytics_Project_Documentation.pdf
 └── README.md
- 
+\`\`\`

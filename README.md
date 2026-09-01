@@ -57,9 +57,7 @@ Running cumulative totals, city spend rankings, per-transaction contribution to 
 | Female spend % by category | [View](./screenshots/Female%20spend%20%25%20by%20category.png) |
 
 ## 💡 Key Findings
-
-> *(Fill in your actual numbers from the results grid)*
-
+ 
 - **Top-spending city:** [CITY] accounted for [X]% of total spend *(Query 5)*
 - **Most-used card type by spend:** [CARD TYPE] *(Query 2)*
 - **Highest-spend category:** [EXPENSE TYPE] with ₹[AMOUNT] across [N] transactions *(Query 3)*

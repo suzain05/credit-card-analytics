@@ -22,3 +22,10 @@ Advanced SQL analysis of **26,051** real credit card transactions across major I
 
 - MySQL Workbench
 - SQL: window functions, CTEs, subqueries, aggregations
+
+## 🧹 Data Cleaning
+
+- Removed the ", India" suffix from all city names
+- Fixed a BOM-corrupted ID column header from the CSV import
+- Converted `txn_date` from text to a proper `DATE` type
+- Renamed `Card Type` → `card_type` (removed the space for SQL-safe querying)

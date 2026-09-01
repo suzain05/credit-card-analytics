@@ -35,5 +35,14 @@ Advanced SQL analysis of **26,051** real credit card transactions across major I
 The [**queries.sql**](./queries.sql) file contains 19 queries organized into three tiers:
 
 **Basic — Aggregations & Grouping (Q1–7)**
+
 Total spend by city, card type, and expense category; gender-wise spend; top-city contribution %.
+
+**Intermediate — Dates & Subqueries (Q8–12)**
+
+Highest-spend month overall and per card type; weekend vs. weekday spending; cities above the average transaction size.
+
+**Advanced — Window Functions, CTEs & Multi-step Logic (Q13–19)**
+
+Running cumulative totals, city spend rankings, per-transaction contribution to card-type totals, month-over-month growth, and female spend share by category.
 

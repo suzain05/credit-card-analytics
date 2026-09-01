@@ -29,3 +29,11 @@ Advanced SQL analysis of **26,051** real credit card transactions across major I
 - Fixed a BOM-corrupted ID column header from the CSV import
 - Converted `txn_date` from text to a proper `DATE` type
 - Renamed `Card Type` → `card_type` (removed the space for SQL-safe querying)
+
+## 🔍 Analysis Structure
+
+The [**queries.sql**](./queries.sql) file contains 19 queries organized into three tiers:
+
+**Basic — Aggregations & Grouping (Q1–7)**
+Total spend by city, card type, and expense category; gender-wise spend; top-city contribution %.
+

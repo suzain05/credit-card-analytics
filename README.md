@@ -46,3 +46,12 @@ Highest-spend month overall and per card type; weekend vs. weekday spending; cit
 
 Running cumulative totals, city spend rankings, per-transaction contribution to card-type totals, month-over-month growth, and female spend share by category.
 
+## 📸 Sample Query Results
+
+| Query | Preview |
+|---|---|
+| Top 5 cities by % contribution | [View](./screenshots/Top%205%20cities%20by%20%25%20contribution.png) |
+| Total spend by card type | [View](./screenshots/Total%20spend%20by%20card%20type.png) |
+| Running cumulative total by city | [View](./screenshots/Running%20cumulative%20total%20by%20city.png) |
+| Month-over-month growth | [View](./screenshots/Month-over-month%20growth.png) |
+| Female spend % by category | [View](./screenshots/Female%20spend%20%25%20by%20category.png) |

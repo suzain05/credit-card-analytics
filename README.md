@@ -77,3 +77,14 @@ credit-card-analytics/
 ├── Credit_Card_Analytics_Project_Documentation.pdf
 └── README.md
 ```
+
+
+## 🚀 How to Reproduce
+
+1. Import `DATA/credit_card_transactions_clean.csv` into MySQL using the Table Data Import Wizard, as table `transactions`
+2. Run the setup/cleaning block at the top of `queries.sql`
+3. Run any query section independently — each is commented and numbered
+
+---
+
+📄 [Full Project Documentation (PDF)](./Credit_Card_Analytics_Project_Documentation.pdf) · 🔗 [More projects](https://github.com/suzain05) · 💼 [LinkedIn](https://linkedin.com/in/suzain-3090b82a7)

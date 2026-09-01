@@ -62,7 +62,10 @@ Running cumulative totals, city spend rankings, per-transaction contribution to 
 
 ## 💡 Key Findings
  
-- **Top-spending city:** [CITY] accounted for [X]% of total spend *(Query 5)*
+- **Top-spending city:** [CITY] accounted for total_spend, avg_transaction
+'Female, '2205311030', '161206.9466'
+'M', '1869522343', '151109.1451'
+]% of total spend *(Query 5)*
 - **Most-used card type by spend:** [CARD TYPE] *(Query 2)*
 - **Highest-spend category:** [EXPENSE TYPE] with ₹[AMOUNT] across [N] transactions *(Query 3)*
 - **Gender split:** [Male/Female] average transaction was ₹[AMOUNT] higher *(Query 4)*

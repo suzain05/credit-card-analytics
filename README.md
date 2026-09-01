@@ -65,9 +65,9 @@ Running cumulative totals, city spend rankings, per-transaction contribution to 
 - **Peak spending month:** [MONTH] *(Query 8)*
 - **Weekend vs weekday:** [Weekend/Weekday] transactions were higher on average *(Query 10)*
 
- ## 📁 Repo Structure
+  ## 📁 Repo Structure
 
-\`\`\`
+```
 credit-card-analytics/
 ├── DATA/
 │   ├── credit_card_transactions_raw.csv
@@ -76,4 +76,4 @@ credit-card-analytics/
 ├── queries.sql
 ├── Credit_Card_Analytics_Project_Documentation.pdf
 └── README.md
-\`\`\`
+```

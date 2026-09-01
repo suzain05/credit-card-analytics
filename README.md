@@ -65,6 +65,7 @@ Running cumulative totals, city spend rankings, per-transaction contribution to 
 - **Peak spending month:** [MONTH] *(Query 8)*
 - **Weekend vs weekday:** [Weekend/Weekday] transactions were higher on average *(Query 10)*
 
+
   ## 📁 Repo Structure
 
 ```

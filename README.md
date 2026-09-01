@@ -55,3 +55,15 @@ Running cumulative totals, city spend rankings, per-transaction contribution to 
 | Running cumulative total by city | [View](./screenshots/Running%20cumulative%20total%20by%20city.png) |
 | Month-over-month growth | [View](./screenshots/Month-over-month%20growth.png) |
 | Female spend % by category | [View](./screenshots/Female%20spend%20%25%20by%20category.png) |
+
+## 💡 Key Findings
+
+> *(Fill in your actual numbers from the results grid)*
+
+- **Top-spending city:** [CITY] accounted for [X]% of total spend *(Query 5)*
+- **Most-used card type by spend:** [CARD TYPE] *(Query 2)*
+- **Highest-spend category:** [EXPENSE TYPE] with ₹[AMOUNT] across [N] transactions *(Query 3)*
+- **Gender split:** [Male/Female] average transaction was ₹[AMOUNT] higher *(Query 4)*
+- **Peak spending month:** [MONTH] *(Query 8)*
+- **Weekend vs weekday:** [Weekend/Weekday] transactions were higher on average *(Query 10)*
+

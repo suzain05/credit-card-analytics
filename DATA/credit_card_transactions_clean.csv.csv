@@ -1,0 +1,1001 @@
+id,City,txn_date,card_type,expense_type,Gender,Amount
+50,Delhi,04-10-2013,Signature,Bills,F,735037
+72,Delhi,04-10-2013,Signature,Bills,F,550782
+141,Greater Mumbai,04-10-2013,Gold,Bills,F,990700
+622,Delhi,04-10-2013,Silver,Food,F,122944
+809,Greater Mumbai,04-10-2013,Silver,Entertainment,F,116700
+831,Ahmedabad,04-10-2013,Silver,Entertainment,F,240666
+1521,Delhi,04-10-2013,Gold,Food,M,281924
+1612,Delhi,04-10-2013,Gold,Grocery,M,125616
+1693,Greater Mumbai,04-10-2013,Platinum,Grocery,F,22708
+1866,Ahmedabad,04-10-2013,Gold,Entertainment,F,78098
+2676,Delhi,04-10-2013,Signature,Fuel,F,298983
+4104,Ahmedabad,04-10-2013,Silver,Entertainment,M,296021
+4970,Ahmedabad,04-10-2013,Silver,Entertainment,F,17168
+5798,Greater Mumbai,04-10-2013,Platinum,Grocery,F,52423
+6379,Ahmedabad,04-10-2013,Silver,Food,M,116904
+6931,Bengaluru,04-10-2013,Gold,Fuel,F,236037
+7201,Greater Mumbai,04-10-2013,Gold,Entertainment,M,201942
+7564,Bengaluru,04-10-2013,Silver,Food,F,205179
+7749,Greater Mumbai,04-10-2013,Platinum,Entertainment,M,295639
+8365,Delhi,04-10-2013,Gold,Entertainment,M,208425
+8532,Greater Mumbai,04-10-2013,Silver,Fuel,M,35163
+8645,Bengaluru,04-10-2013,Silver,Bills,M,159769
+9244,Delhi,04-10-2013,Silver,Fuel,M,203722
+9418,Ahmedabad,04-10-2013,Silver,Entertainment,M,89155
+9427,Bengaluru,04-10-2013,Gold,Fuel,F,29929
+10241,Delhi,04-10-2013,Silver,Fuel,F,52179
+10361,Delhi,04-10-2013,Silver,Food,M,210174
+11175,Greater Mumbai,04-10-2013,Signature,Food,F,290266
+11398,Greater Mumbai,04-10-2013,Signature,Fuel,F,218607
+11603,Bengaluru,04-10-2013,Platinum,Bills,M,18586
+12233,Delhi,04-10-2013,Platinum,Entertainment,M,237165
+12513,Bengaluru,04-10-2013,Silver,Food,M,182817
+15118,Phalodi,04-10-2013,Gold,Entertainment,M,139361
+15464,Lakshmeshwar,04-10-2013,Silver,Bills,F,83905
+15765,Puttur,04-10-2013,Silver,Fuel,M,282754
+15975,Terdal,04-10-2013,Gold,Grocery,F,64001
+16063,Bheemunipatnam,04-10-2013,Silver,Food,F,14167
+16390,Sawai Madhopur,04-10-2013,Gold,Fuel,F,215148
+16503,Tanuku,04-10-2013,Signature,Grocery,F,92194
+17398,Fatehpur Sikri,04-10-2013,Gold,Grocery,M,188578
+17554,Siwan,04-10-2013,Platinum,Grocery,M,298389
+17663,Nowgong,04-10-2013,Gold,Fuel,M,33784
+18278,Sultanganj,04-10-2013,Gold,Entertainment,M,131374
+18313,Bahadurgarh,04-10-2013,Silver,Food,F,91707
+19086,Thane,04-10-2013,Gold,Entertainment,F,259372
+20062,Hyderabad,04-10-2013,Signature,Bills,F,24897
+20282,Kolkata,04-10-2013,Silver,Entertainment,F,18034
+22828,Kolkata,04-10-2013,Gold,Fuel,F,46039
+23493,Jaipur,04-10-2013,Signature,Entertainment,F,289594
+23647,Hyderabad,04-10-2013,Gold,Food,F,80058
+23691,Chennai,04-10-2013,Gold,Grocery,M,27511
+23786,Kanpur,04-10-2013,Signature,Bills,M,29774
+24005,Chennai,04-10-2013,Gold,Fuel,F,76211
+24540,Chennai,04-10-2013,Signature,Entertainment,M,102337
+25301,Surat,04-10-2013,Signature,Entertainment,F,216512
+25573,Pune,04-10-2013,Silver,Travel,F,11626
+190,Ahmedabad,05-10-2013,Platinum,Bills,F,612572
+2537,Bengaluru,05-10-2013,Silver,Fuel,F,127320
+2592,Greater Mumbai,05-10-2013,Signature,Fuel,M,122595
+2980,Bengaluru,05-10-2013,Platinum,Food,M,183626
+3456,Ahmedabad,05-10-2013,Signature,Grocery,M,20999
+3617,Ahmedabad,05-10-2013,Signature,Grocery,M,229366
+5338,Bengaluru,05-10-2013,Gold,Entertainment,M,264301
+5920,Ahmedabad,05-10-2013,Signature,Entertainment,M,261523
+6476,Ahmedabad,05-10-2013,Signature,Food,F,147199
+7239,Greater Mumbai,05-10-2013,Silver,Food,F,141946
+7804,Bengaluru,05-10-2013,Silver,Food,F,164024
+8029,Bengaluru,05-10-2013,Silver,Fuel,F,123820
+8250,Greater Mumbai,05-10-2013,Platinum,Bills,F,286662
+9208,Ahmedabad,05-10-2013,Silver,Entertainment,F,299794
+9727,Ahmedabad,05-10-2013,Signature,Food,M,158711
+9786,Delhi,05-10-2013,Silver,Food,F,22774
+10211,Delhi,05-10-2013,Silver,Grocery,F,158154
+11045,Greater Mumbai,05-10-2013,Signature,Fuel,M,130428
+11158,Ahmedabad,05-10-2013,Platinum,Food,F,44134
+12743,Bengaluru,05-10-2013,Gold,Grocery,F,171087
+14536,Hansi,05-10-2013,Gold,Grocery,M,79974
+15871,Ramnagar,05-10-2013,Gold,Entertainment,M,167400
+15968,Lingsugur,05-10-2013,Platinum,Grocery,F,104254
+16227,Merta City,05-10-2013,Signature,Grocery,F,160358
+17290,Soron,05-10-2013,Gold,Food,F,253631
+17821,Hindupur,05-10-2013,Platinum,Entertainment,M,235393
+18778,Mangrol,05-10-2013,Silver,Bills,F,85242
+19520,Ramdurg,05-10-2013,Silver,Grocery,F,296064
+19698,Kadapa,05-10-2013,Platinum,Entertainment,M,281053
+19744,Ludhiana,05-10-2013,Silver,Food,M,288687
+20624,Pune,05-10-2013,Silver,Food,F,38978
+20646,Jaipur,05-10-2013,Platinum,Bills,M,246855
+20801,Pune,05-10-2013,Silver,Grocery,F,22267
+20868,Pune,05-10-2013,Gold,Food,M,236710
+20904,Chennai,05-10-2013,Gold,Bills,F,32874
+20937,Kanpur,05-10-2013,Gold,Bills,F,19658
+21034,Jaipur,05-10-2013,Silver,Bills,M,217527
+21279,Chennai,05-10-2013,Signature,Fuel,F,255850
+21569,Lucknow,05-10-2013,Gold,Entertainment,M,131148
+22352,Surat,05-10-2013,Silver,Entertainment,M,81542
+23620,Lucknow,05-10-2013,Signature,Fuel,F,81115
+23692,Pune,05-10-2013,Silver,Grocery,M,254534
+23974,Jaipur,05-10-2013,Signature,Bills,F,92598
+24031,Surat,05-10-2013,Platinum,Bills,F,8478
+24094,Surat,05-10-2013,Signature,Grocery,F,121025
+24753,Jaipur,05-10-2013,Silver,Food,M,54159
+25314,Chennai,05-10-2013,Silver,Travel,M,279582
+25837,Kanpur,05-10-2013,Silver,Travel,F,264641
+166,Bengaluru,06-10-2013,Signature,Bills,F,677654
+747,Bengaluru,06-10-2013,Gold,Food,F,41266
+889,Greater Mumbai,06-10-2013,Silver,Fuel,F,66083
+1258,Ahmedabad,06-10-2013,Signature,Food,F,272214
+2103,Ahmedabad,06-10-2013,Gold,Fuel,M,265492
+2127,Bengaluru,06-10-2013,Signature,Fuel,F,149848
+3123,Bengaluru,06-10-2013,Silver,Entertainment,F,153572
+3167,Delhi,06-10-2013,Platinum,Grocery,F,23276
+5303,Greater Mumbai,06-10-2013,Silver,Entertainment,M,223491
+5445,Delhi,06-10-2013,Signature,Food,F,156519
+6649,Delhi,06-10-2013,Platinum,Bills,M,142390
+7104,Greater Mumbai,06-10-2013,Platinum,Bills,M,5557
+7302,Bengaluru,06-10-2013,Platinum,Food,M,264084
+7822,Ahmedabad,06-10-2013,Silver,Entertainment,F,1938
+9428,Delhi,06-10-2013,Signature,Fuel,F,14522
+9573,Greater Mumbai,06-10-2013,Silver,Food,M,280604
+10330,Greater Mumbai,06-10-2013,Signature,Entertainment,F,283090
+11564,Ahmedabad,06-10-2013,Gold,Food,M,125804
+11736,Delhi,06-10-2013,Gold,Grocery,F,62430
+12299,Bengaluru,06-10-2013,Platinum,Grocery,F,172280
+12383,Ahmedabad,06-10-2013,Silver,Food,F,34627
+13831,Delhi,06-10-2013,Gold,Food,M,189094
+16105,Pilkhuwa,06-10-2013,Signature,Entertainment,M,148833
+16167,Pune,06-10-2013,Signature,Fuel,F,171445
+16444,Kharagpur,06-10-2013,Gold,Grocery,F,215506
+16689,Sawai Madhopur,06-10-2013,Gold,Bills,F,225186
+17336,Pavagada,06-10-2013,Silver,Food,F,33864
+18040,Jhargram,06-10-2013,Silver,Bills,M,285170
+18061,Kendrapara,06-10-2013,Signature,Food,F,33470
+18094,Utraula,06-10-2013,Signature,Bills,F,142712
+19049,Rampur,06-10-2013,Platinum,Fuel,M,141559
+19060,Tiruchirappalli,06-10-2013,Silver,Fuel,M,156150
+20341,Kolkata,06-10-2013,Silver,Fuel,M,144756
+20457,Lucknow,06-10-2013,Gold,Entertainment,F,71412
+21249,Jaipur,06-10-2013,Signature,Bills,F,63141
+21486,Pune,06-10-2013,Platinum,Grocery,F,245189
+21673,Chennai,06-10-2013,Platinum,Food,F,37449
+22056,Kanpur,06-10-2013,Signature,Food,M,271103
+23356,Pune,06-10-2013,Silver,Bills,F,290818
+24088,Kolkata,06-10-2013,Signature,Entertainment,M,105294
+24152,Hyderabad,06-10-2013,Silver,Bills,M,130057
+25202,Surat,06-10-2013,Gold,Food,F,175081
+25223,Lucknow,06-10-2013,Silver,Food,M,212365
+25855,Hyderabad,06-10-2013,Gold,Travel,F,83660
+119,Delhi,07-10-2013,Platinum,Bills,F,897079
+2208,Bengaluru,07-10-2013,Silver,Fuel,F,224526
+2444,Bengaluru,07-10-2013,Platinum,Fuel,M,200833
+2556,Bengaluru,07-10-2013,Silver,Fuel,M,39434
+2842,Greater Mumbai,07-10-2013,Platinum,Bills,F,212803
+2901,Bengaluru,07-10-2013,Gold,Bills,F,186328
+3982,Ahmedabad,07-10-2013,Silver,Food,F,85887
+4334,Ahmedabad,07-10-2013,Platinum,Food,F,130267
+5495,Bengaluru,07-10-2013,Gold,Bills,M,152070
+6491,Ahmedabad,07-10-2013,Platinum,Grocery,F,127358
+7041,Delhi,07-10-2013,Gold,Bills,F,94821
+7845,Greater Mumbai,07-10-2013,Platinum,Food,M,242693
+8346,Delhi,07-10-2013,Gold,Grocery,F,100142
+8740,Greater Mumbai,07-10-2013,Signature,Food,F,136426
+8825,Delhi,07-10-2013,Signature,Grocery,F,241679
+9114,Greater Mumbai,07-10-2013,Platinum,Fuel,F,126821
+9558,Bengaluru,07-10-2013,Signature,Food,F,14506
+10127,Bengaluru,07-10-2013,Gold,Bills,F,53126
+10638,Ahmedabad,07-10-2013,Platinum,Bills,M,56262
+10921,Bengaluru,07-10-2013,Silver,Grocery,M,184766
+12355,Ahmedabad,07-10-2013,Platinum,Food,M,25685
+13580,Bengaluru,07-10-2013,Gold,Bills,M,47228
+14519,Nashik,07-10-2013,Gold,Bills,M,114458
+14662,Jabalpur,07-10-2013,Signature,Entertainment,F,174318
+15203,Makrana,07-10-2013,Signature,Fuel,F,116394
+15465,Sabalgarh,07-10-2013,Signature,Grocery,M,104886
+15684,Satana,07-10-2013,Platinum,Grocery,M,264412
+15741,Akola,07-10-2013,Signature,Grocery,M,161255
+15834,Alwar,07-10-2013,Signature,Food,F,285142
+16273,Kottayam,07-10-2013,Platinum,Food,M,210162
+16372,Tumsar,07-10-2013,Gold,Grocery,M,63818
+16424,Tiruvethipuram,07-10-2013,Signature,Grocery,M,275284
+16798,Tharad,07-10-2013,Gold,Bills,M,118136
+17815,Mhow Cantonment,07-10-2013,Signature,Bills,F,124806
+19075,Roorkee,07-10-2013,Signature,Fuel,M,113589
+19078,Jind,07-10-2013,Platinum,Food,M,70125
+19178,Malegaon,07-10-2013,Signature,Entertainment,F,288672
+19468,Sillod,07-10-2013,Silver,Food,M,166868
+19933,Haldwani-cum-Kathgodam,07-10-2013,Silver,Food,M,212679
+20011,Kanpur,07-10-2013,Platinum,Food,F,47482
+20682,Surat,07-10-2013,Silver,Food,M,70282
+21267,Hyderabad,07-10-2013,Gold,Fuel,F,103991
+22072,Pune,07-10-2013,Silver,Grocery,F,206730
+22535,Kanpur,07-10-2013,Platinum,Grocery,F,222044
+24437,Surat,07-10-2013,Signature,Fuel,F,130714
+24499,Pune,07-10-2013,Silver,Entertainment,M,112985
+24671,Surat,07-10-2013,Platinum,Fuel,M,97550
+24867,Kolkata,07-10-2013,Platinum,Bills,F,181470
+25091,Chennai,07-10-2013,Gold,Food,M,170470
+25805,Hyderabad,07-10-2013,Platinum,Travel,M,33530
+58,Delhi,08-10-2013,Platinum,Bills,F,900101
+410,Delhi,08-10-2013,Platinum,Bills,F,129169
+1656,Ahmedabad,08-10-2013,Signature,Fuel,F,57789
+2196,Delhi,08-10-2013,Platinum,Fuel,M,293383
+2442,Ahmedabad,08-10-2013,Gold,Fuel,M,60020
+2585,Greater Mumbai,08-10-2013,Silver,Fuel,F,94545
+3000,Bengaluru,08-10-2013,Gold,Fuel,M,156732
+4513,Bengaluru,08-10-2013,Signature,Bills,F,76267
+5146,Delhi,08-10-2013,Signature,Bills,F,117144
+5860,Delhi,08-10-2013,Platinum,Bills,F,136828
+6037,Bengaluru,08-10-2013,Platinum,Fuel,M,203352
+6947,Bengaluru,08-10-2013,Gold,Grocery,F,222744
+7127,Bengaluru,08-10-2013,Signature,Food,F,99656
+7988,Bengaluru,08-10-2013,Signature,Food,F,9478
+8730,Bengaluru,08-10-2013,Gold,Bills,M,18782
+10151,Bengaluru,08-10-2013,Gold,Fuel,M,118249
+11084,Bengaluru,08-10-2013,Platinum,Food,M,100379
+11441,Delhi,08-10-2013,Silver,Bills,F,106902
+11838,Greater Mumbai,08-10-2013,Gold,Entertainment,F,188378
+12637,Ahmedabad,08-10-2013,Platinum,Entertainment,M,122753
+12925,Ahmedabad,08-10-2013,Gold,Food,F,87268
+13021,Delhi,08-10-2013,Gold,Entertainment,F,28898
+14545,Talaja,08-10-2013,Gold,Fuel,F,33623
+14883,Ramnagar,08-10-2013,Platinum,Bills,M,121303
+15102,Kendujhar,08-10-2013,Silver,Grocery,F,14807
+15715,Jorhat,08-10-2013,Gold,Entertainment,F,224801
+15744,Sathyamangalam,08-10-2013,Signature,Fuel,F,79715
+16015,Raisen,08-10-2013,Signature,Grocery,F,78480
+16222,Sibsagar,08-10-2013,Signature,Grocery,F,43741
+16237,Kancheepuram,08-10-2013,Gold,Grocery,M,123713
+17839,Nellore,08-10-2013,Gold,Grocery,F,198455
+18112,Jagdalpur,08-10-2013,Signature,Food,F,261114
+19742,Sailu,08-10-2013,Platinum,Fuel,F,273936
+21150,Lucknow,08-10-2013,Silver,Fuel,F,32046
+21208,Kanpur,08-10-2013,Gold,Entertainment,F,220014
+21629,Kolkata,08-10-2013,Silver,Food,F,43013
+21862,Pune,08-10-2013,Silver,Entertainment,F,221118
+23418,Surat,08-10-2013,Signature,Bills,F,279967
+23724,Chennai,08-10-2013,Platinum,Bills,F,235249
+25025,Kanpur,08-10-2013,Gold,Food,F,18621
+867,Delhi,09-10-2013,Silver,Fuel,F,39439
+1157,Delhi,09-10-2013,Silver,Grocery,F,162859
+2048,Ahmedabad,09-10-2013,Gold,Fuel,M,112553
+3437,Greater Mumbai,09-10-2013,Signature,Food,M,54958
+3497,Greater Mumbai,09-10-2013,Gold,Fuel,M,209565
+4009,Ahmedabad,09-10-2013,Silver,Grocery,M,64793
+4474,Greater Mumbai,09-10-2013,Platinum,Fuel,F,278582
+4505,Delhi,09-10-2013,Gold,Fuel,F,299642
+4655,Greater Mumbai,09-10-2013,Signature,Grocery,M,37495
+4751,Ahmedabad,09-10-2013,Silver,Fuel,M,27626
+5031,Ahmedabad,09-10-2013,Signature,Food,F,20408
+5323,Delhi,09-10-2013,Silver,Entertainment,F,70818
+5443,Delhi,09-10-2013,Gold,Food,F,295917
+6792,Bengaluru,09-10-2013,Silver,Entertainment,F,253206
+7254,Bengaluru,09-10-2013,Silver,Grocery,M,52473
+7285,Delhi,09-10-2013,Platinum,Food,M,218957
+7450,Greater Mumbai,09-10-2013,Gold,Bills,M,226017
+7686,Ahmedabad,09-10-2013,Signature,Grocery,M,93385
+8535,Bengaluru,09-10-2013,Platinum,Grocery,F,28961
+8536,Delhi,09-10-2013,Signature,Food,M,173889
+9459,Ahmedabad,09-10-2013,Silver,Bills,M,293423
+9648,Delhi,09-10-2013,Gold,Food,M,285214
+9722,Bengaluru,09-10-2013,Gold,Food,F,190157
+10385,Delhi,09-10-2013,Platinum,Food,M,273629
+11214,Ahmedabad,09-10-2013,Platinum,Entertainment,F,27032
+11796,Bengaluru,09-10-2013,Signature,Entertainment,F,157165
+11820,Bengaluru,09-10-2013,Gold,Food,F,216547
+12356,Bengaluru,09-10-2013,Platinum,Fuel,F,158261
+12374,Greater Mumbai,09-10-2013,Silver,Entertainment,M,264150
+13218,Bengaluru,09-10-2013,Gold,Bills,M,242790
+13311,Ahmedabad,09-10-2013,Signature,Food,F,28640
+14188,Pratapgarh,09-10-2013,Gold,Entertainment,F,83858
+14728,Patan,09-10-2013,Silver,Fuel,F,188973
+14733,Wadi,09-10-2013,Signature,Food,M,248321
+15474,Risod,09-10-2013,Signature,Food,F,257838
+15657,Maihar,09-10-2013,Signature,Grocery,F,115113
+16027,Terdal,09-10-2013,Platinum,Grocery,F,30602
+16059,Bhilai Nagar,09-10-2013,Platinum,Entertainment,F,40990
+16823,Lakheri,09-10-2013,Silver,Food,F,232797
+16882,Rewa,09-10-2013,Gold,Grocery,F,189221
+16973,Yamunanagar,09-10-2013,Signature,Food,M,24644
+17720,Gurgaon,09-10-2013,Silver,Fuel,M,290387
+18834,Savarkundla,09-10-2013,Platinum,Food,M,150874
+18887,Nehtaur,09-10-2013,Signature,Grocery,F,182728
+19321,Valsad,09-10-2013,Silver,Food,M,118224
+19404,Thangadh,09-10-2013,Platinum,Fuel,M,108754
+19997,Chennai,09-10-2013,Platinum,Food,M,1175
+20853,Jaipur,09-10-2013,Gold,Grocery,F,48891
+21172,Jaipur,09-10-2013,Signature,Fuel,F,280252
+23136,Surat,09-10-2013,Gold,Bills,F,24746
+23193,Hyderabad,09-10-2013,Signature,Fuel,F,118588
+23337,Hyderabad,09-10-2013,Silver,Food,M,174704
+23622,Jaipur,09-10-2013,Signature,Food,M,289396
+23803,Lucknow,09-10-2013,Silver,Entertainment,F,35817
+24049,Chennai,09-10-2013,Platinum,Grocery,M,220450
+24683,Kolkata,09-10-2013,Gold,Entertainment,F,201943
+24704,Pune,09-10-2013,Signature,Grocery,M,239906
+26046,Hyderabad,09-10-2013,Signature,Travel,M,198903
+320,Delhi,10-10-2013,Signature,Bills,F,360009
+781,Ahmedabad,10-10-2013,Silver,Food,F,74794
+2036,Delhi,10-10-2013,Signature,Fuel,M,64589
+3323,Ahmedabad,10-10-2013,Signature,Food,F,93503
+4221,Greater Mumbai,10-10-2013,Silver,Fuel,F,244726
+4348,Delhi,10-10-2013,Signature,Fuel,F,19918
+4485,Delhi,10-10-2013,Platinum,Entertainment,M,259740
+5504,Bengaluru,10-10-2013,Silver,Grocery,M,291694
+5706,Delhi,10-10-2013,Platinum,Fuel,F,240018
+6091,Greater Mumbai,10-10-2013,Signature,Food,M,268577
+6265,Delhi,10-10-2013,Silver,Entertainment,M,273894
+7519,Greater Mumbai,10-10-2013,Signature,Food,M,253730
+9120,Bengaluru,10-10-2013,Platinum,Food,M,95964
+9645,Bengaluru,10-10-2013,Signature,Fuel,F,134137
+10061,Delhi,10-10-2013,Platinum,Bills,F,66927
+11492,Ahmedabad,10-10-2013,Signature,Food,F,265844
+11974,Ahmedabad,10-10-2013,Silver,Entertainment,F,79847
+12277,Greater Mumbai,10-10-2013,Silver,Grocery,F,90839
+12903,Greater Mumbai,10-10-2013,Signature,Grocery,F,5816
+13743,Delhi,10-10-2013,Platinum,Food,M,3092
+13879,Greater Mumbai,10-10-2013,Gold,Bills,F,253796
+14958,Modinagar,10-10-2013,Platinum,Entertainment,M,285464
+15330,Bheemunipatnam,10-10-2013,Platinum,Grocery,M,297116
+15507,Malegaon,10-10-2013,Platinum,Bills,M,292535
+15590,Utraula,10-10-2013,Gold,Bills,M,13914
+16782,Akola,10-10-2013,Platinum,Bills,F,154678
+16876,Adoor,10-10-2013,Platinum,Food,M,11990
+17594,Chittoor,10-10-2013,Silver,Grocery,F,72006
+17903,Baramula,10-10-2013,Platinum,Bills,F,40176
+18074,Udhagamandalam,10-10-2013,Platinum,Bills,M,291415
+18314,Rawatsar,10-10-2013,Gold,Fuel,F,85841
+18983,Kothagudem,10-10-2013,Gold,Bills,M,163997
+21899,Chennai,10-10-2013,Gold,Food,F,226400
+22540,Hyderabad,10-10-2013,Signature,Entertainment,F,80580
+22811,Kanpur,10-10-2013,Silver,Entertainment,M,184786
+23397,Pune,10-10-2013,Silver,Bills,M,17279
+23405,Hyderabad,10-10-2013,Platinum,Bills,F,92598
+24009,Kolkata,10-10-2013,Signature,Entertainment,M,110799
+24213,Chennai,10-10-2013,Signature,Grocery,F,191084
+24750,Kolkata,10-10-2013,Signature,Food,F,127034
+24840,Kolkata,10-10-2013,Platinum,Fuel,F,137465
+25610,Jaipur,10-10-2013,Platinum,Travel,M,60698
+26004,Hyderabad,10-10-2013,Signature,Travel,F,21777
+23,Ahmedabad,11-10-2013,Gold,Bills,F,668568
+268,Delhi,11-10-2013,Gold,Bills,F,393651
+854,Ahmedabad,11-10-2013,Silver,Bills,F,131578
+3028,Greater Mumbai,11-10-2013,Platinum,Entertainment,M,122576
+3412,Bengaluru,11-10-2013,Signature,Fuel,M,48441
+3514,Ahmedabad,11-10-2013,Gold,Food,M,186779
+4242,Delhi,11-10-2013,Gold,Food,F,49153
+4765,Bengaluru,11-10-2013,Gold,Grocery,M,23448
+5057,Bengaluru,11-10-2013,Signature,Bills,F,182330
+5652,Delhi,11-10-2013,Platinum,Entertainment,M,44863
+6354,Greater Mumbai,11-10-2013,Platinum,Grocery,F,237867
+7327,Greater Mumbai,11-10-2013,Gold,Fuel,M,212080
+7400,Bengaluru,11-10-2013,Gold,Entertainment,M,20417
+7480,Ahmedabad,11-10-2013,Silver,Entertainment,F,39631
+7521,Greater Mumbai,11-10-2013,Gold,Fuel,M,69877
+7542,Greater Mumbai,11-10-2013,Signature,Bills,F,50617
+7685,Greater Mumbai,11-10-2013,Platinum,Food,M,151924
+9798,Delhi,11-10-2013,Signature,Grocery,M,127082
+10714,Bengaluru,11-10-2013,Platinum,Bills,M,201094
+11555,Bengaluru,11-10-2013,Gold,Fuel,F,162498
+12412,Delhi,11-10-2013,Gold,Entertainment,M,108085
+13247,Greater Mumbai,11-10-2013,Silver,Grocery,M,271912
+13525,Greater Mumbai,11-10-2013,Gold,Grocery,M,142725
+13978,Greater Mumbai,11-10-2013,Platinum,Fuel,F,231743
+14115,Maner,11-10-2013,Signature,Entertainment,F,91099
+14283,Nahan,11-10-2013,Gold,Food,M,248730
+15129,Nehtaur,11-10-2013,Gold,Entertainment,F,106642
+15662,Salur,11-10-2013,Signature,Grocery,F,222490
+15724,Surat,11-10-2013,Gold,Bills,M,24993
+16033,Malegaon,11-10-2013,Gold,Fuel,F,154758
+16323,Kaithal,11-10-2013,Platinum,Entertainment,F,229300
+16363,Kharar,11-10-2013,Platinum,Fuel,M,77015
+16780,Tuljapur,11-10-2013,Silver,Entertainment,M,213787
+16929,Sundargarh,11-10-2013,Platinum,Entertainment,M,113322
+17841,Asansol,11-10-2013,Signature,Fuel,F,53709
+18062,Dharmavaram,11-10-2013,Signature,Bills,F,125319
+18360,Maihar,11-10-2013,Gold,Grocery,F,137766
+18431,Supaul,11-10-2013,Signature,Food,M,272044
+18740,Palghar,11-10-2013,Gold,Food,M,269335
+20052,Pune,11-10-2013,Gold,Food,M,192824
+20461,Surat,11-10-2013,Gold,Fuel,F,181899
+20487,Pune,11-10-2013,Platinum,Food,F,146184
+20558,Kolkata,11-10-2013,Platinum,Bills,M,223239
+23203,Surat,11-10-2013,Platinum,Food,F,296069
+23611,Hyderabad,11-10-2013,Gold,Entertainment,F,215803
+23725,Hyderabad,11-10-2013,Silver,Fuel,M,18209
+23771,Pune,11-10-2013,Signature,Fuel,F,130409
+23773,Hyderabad,11-10-2013,Silver,Bills,M,294416
+23836,Kolkata,11-10-2013,Gold,Fuel,F,208003
+24886,Surat,11-10-2013,Platinum,Food,F,216281
+25131,Lucknow,11-10-2013,Signature,Entertainment,M,176447
+25136,Lucknow,11-10-2013,Platinum,Fuel,F,129534
+25735,Jaipur,11-10-2013,Signature,Travel,F,208777
+25872,Chennai,11-10-2013,Signature,Travel,M,50314
+25928,Kolkata,11-10-2013,Silver,Travel,F,130957
+1044,Greater Mumbai,12-10-2013,Silver,Bills,F,33156
+1182,Greater Mumbai,12-10-2013,Silver,Grocery,F,268559
+1588,Ahmedabad,12-10-2013,Signature,Food,M,123647
+2028,Bengaluru,12-10-2013,Silver,Fuel,F,259266
+2869,Greater Mumbai,12-10-2013,Platinum,Grocery,M,26699
+3151,Bengaluru,12-10-2013,Silver,Grocery,M,2114
+4106,Ahmedabad,12-10-2013,Signature,Fuel,F,196562
+4806,Bengaluru,12-10-2013,Platinum,Entertainment,M,193522
+4821,Greater Mumbai,12-10-2013,Signature,Entertainment,F,37103
+5188,Bengaluru,12-10-2013,Silver,Fuel,M,260855
+5436,Greater Mumbai,12-10-2013,Gold,Food,F,45191
+5733,Ahmedabad,12-10-2013,Silver,Grocery,F,252655
+6946,Ahmedabad,12-10-2013,Gold,Fuel,F,148387
+8141,Ahmedabad,12-10-2013,Silver,Fuel,F,173381
+9129,Bengaluru,12-10-2013,Silver,Bills,F,143847
+9405,Greater Mumbai,12-10-2013,Gold,Grocery,M,131410
+9406,Greater Mumbai,12-10-2013,Signature,Entertainment,F,219848
+9655,Ahmedabad,12-10-2013,Signature,Fuel,F,186881
+9956,Bengaluru,12-10-2013,Signature,Food,M,234001
+10136,Delhi,12-10-2013,Gold,Fuel,M,241870
+11690,Ahmedabad,12-10-2013,Signature,Entertainment,F,185271
+12272,Bengaluru,12-10-2013,Signature,Fuel,M,26752
+12711,Bengaluru,12-10-2013,Signature,Grocery,M,86395
+12804,Greater Mumbai,12-10-2013,Signature,Grocery,F,225240
+13031,Delhi,12-10-2013,Gold,Fuel,M,253012
+14017,Muzaffarpur,12-10-2013,Silver,Grocery,M,285635
+14089,Raigarh,12-10-2013,Silver,Grocery,M,278954
+14527,Sattenapalle,12-10-2013,Silver,Grocery,M,62725
+15651,Oddanchatram,12-10-2013,Silver,Food,F,203463
+15955,Nasirabad,12-10-2013,Signature,Fuel,F,1207
+16763,Lunglei,12-10-2013,Platinum,Entertainment,F,117084
+16776,Yavatmal,12-10-2013,Signature,Food,M,129865
+17250,Mokokchung,12-10-2013,Platinum,Fuel,F,167197
+17876,Sikandra Rao,12-10-2013,Silver,Fuel,F,238909
+18720,Ujhani,12-10-2013,Signature,Food,F,188360
+19384,Tarakeswar,12-10-2013,Silver,Food,M,15456
+19507,Rohtak,12-10-2013,Platinum,Entertainment,M,28531
+19684,Usilampatti,12-10-2013,Silver,Fuel,F,283879
+20602,Hyderabad,12-10-2013,Signature,Entertainment,F,238375
+20655,Pune,12-10-2013,Platinum,Grocery,F,105371
+21109,Chennai,12-10-2013,Gold,Fuel,M,283417
+21976,Chennai,12-10-2013,Silver,Grocery,F,248401
+23296,Jaipur,12-10-2013,Gold,Bills,M,171529
+23429,Jaipur,12-10-2013,Gold,Entertainment,F,190952
+23489,Kanpur,12-10-2013,Silver,Entertainment,F,109918
+24964,Surat,12-10-2013,Platinum,Food,M,284629
+25232,Hyderabad,12-10-2013,Platinum,Bills,M,126949
+25560,Jaipur,12-10-2013,Platinum,Travel,M,200501
+25581,Surat,12-10-2013,Platinum,Travel,F,160939
+25806,Hyderabad,12-10-2013,Signature,Travel,F,111294
+25995,Chennai,12-10-2013,Silver,Travel,F,172443
+103,Bengaluru,13-10-2013,Signature,Bills,F,973026
+219,Greater Mumbai,13-10-2013,Silver,Bills,F,738456
+648,Ahmedabad,13-10-2013,Signature,Food,F,155529
+1095,Delhi,13-10-2013,Silver,Entertainment,F,21500
+1576,Delhi,13-10-2013,Silver,Food,F,216522
+1647,Ahmedabad,13-10-2013,Gold,Bills,F,238211
+2328,Bengaluru,13-10-2013,Gold,Fuel,M,50515
+2550,Bengaluru,13-10-2013,Silver,Fuel,M,202490
+3304,Delhi,13-10-2013,Platinum,Bills,M,214795
+3390,Delhi,13-10-2013,Silver,Bills,F,138597
+3399,Bengaluru,13-10-2013,Platinum,Grocery,F,178349
+3508,Bengaluru,13-10-2013,Gold,Fuel,M,66376
+4271,Bengaluru,13-10-2013,Silver,Bills,F,80459
+4675,Ahmedabad,13-10-2013,Platinum,Bills,M,298523
+5988,Ahmedabad,13-10-2013,Platinum,Bills,F,31352
+6916,Delhi,13-10-2013,Gold,Food,M,76546
+7418,Greater Mumbai,13-10-2013,Silver,Grocery,M,275147
+7555,Bengaluru,13-10-2013,Silver,Entertainment,M,259267
+7725,Greater Mumbai,13-10-2013,Gold,Grocery,M,174136
+8050,Ahmedabad,13-10-2013,Platinum,Entertainment,M,188278
+8188,Bengaluru,13-10-2013,Silver,Food,M,42507
+9654,Ahmedabad,13-10-2013,Gold,Food,F,122157
+9664,Greater Mumbai,13-10-2013,Silver,Grocery,F,68338
+10375,Greater Mumbai,13-10-2013,Silver,Food,F,238084
+10925,Ahmedabad,13-10-2013,Signature,Food,M,298591
+11076,Delhi,13-10-2013,Silver,Fuel,F,218227
+12371,Bengaluru,13-10-2013,Signature,Entertainment,M,271916
+12678,Greater Mumbai,13-10-2013,Silver,Bills,F,179032
+12840,Greater Mumbai,13-10-2013,Silver,Food,M,99580
+13349,Greater Mumbai,13-10-2013,Gold,Bills,M,7117
+13624,Greater Mumbai,13-10-2013,Silver,Fuel,F,281096
+13669,Ahmedabad,13-10-2013,Silver,Entertainment,F,100961
+14132,Jagdalpur,13-10-2013,Gold,Grocery,M,216770
+14217,Pilkhuwa,13-10-2013,Gold,Grocery,F,242968
+16087,Kagaznagar,13-10-2013,Gold,Fuel,F,108589
+16214,Nadiad,13-10-2013,Silver,Food,M,126751
+16813,Shirpur-Warwade,13-10-2013,Silver,Entertainment,M,298572
+16827,Bhadrak,13-10-2013,Gold,Grocery,M,236547
+16885,Hardwar,13-10-2013,Gold,Grocery,M,40647
+17676,Tuni,13-10-2013,Gold,Fuel,F,285125
+17806,Rajagangapur,13-10-2013,Signature,Bills,F,237908
+17974,Sagara,13-10-2013,Gold,Food,M,80739
+18750,Bhilwara,13-10-2013,Signature,Food,F,169474
+19277,Yevla,13-10-2013,Platinum,Entertainment,F,163407
+19421,Nidadavole,13-10-2013,Signature,Food,M,208072
+20352,Lucknow,13-10-2013,Platinum,Fuel,M,144090
+22652,Kolkata,13-10-2013,Gold,Entertainment,F,102516
+22804,Pune,13-10-2013,Signature,Food,F,159661
+22824,Surat,13-10-2013,Signature,Food,M,288997
+23474,Pune,13-10-2013,Silver,Entertainment,M,140879
+23595,Kanpur,13-10-2013,Gold,Food,F,152353
+23885,Lucknow,13-10-2013,Gold,Bills,M,261694
+24510,Hyderabad,13-10-2013,Gold,Entertainment,F,141838
+25333,Lucknow,13-10-2013,Platinum,Travel,M,126518
+173,Ahmedabad,14-10-2013,Platinum,Bills,F,450413
+691,Greater Mumbai,14-10-2013,Platinum,Food,F,48570
+907,Delhi,14-10-2013,Silver,Entertainment,F,184533
+1553,Delhi,14-10-2013,Silver,Food,F,237812
+1617,Ahmedabad,14-10-2013,Signature,Grocery,M,254257
+1845,Greater Mumbai,14-10-2013,Silver,Grocery,F,42945
+1878,Ahmedabad,14-10-2013,Gold,Fuel,M,61555
+2505,Delhi,14-10-2013,Platinum,Fuel,F,90381
+2652,Greater Mumbai,14-10-2013,Silver,Fuel,F,167817
+2858,Greater Mumbai,14-10-2013,Gold,Bills,F,16263
+3920,Ahmedabad,14-10-2013,Silver,Grocery,F,221912
+4988,Ahmedabad,14-10-2013,Signature,Fuel,M,237189
+5072,Delhi,14-10-2013,Silver,Bills,M,185861
+5142,Delhi,14-10-2013,Signature,Bills,F,290065
+7176,Bengaluru,14-10-2013,Signature,Fuel,F,109719
+7531,Bengaluru,14-10-2013,Signature,Fuel,M,150783
+8331,Bengaluru,14-10-2013,Gold,Food,M,75662
+11017,Ahmedabad,14-10-2013,Signature,Bills,M,236711
+11082,Bengaluru,14-10-2013,Silver,Grocery,F,74671
+13091,Ahmedabad,14-10-2013,Silver,Bills,F,28993
+13384,Greater Mumbai,14-10-2013,Platinum,Entertainment,M,251632
+13435,Greater Mumbai,14-10-2013,Silver,Food,M,72419
+13697,Ahmedabad,14-10-2013,Gold,Food,F,47708
+13923,Bengaluru,14-10-2013,Gold,Entertainment,M,151491
+15435,Alipurduar,14-10-2013,Platinum,Entertainment,M,100013
+16360,Tindivanam,14-10-2013,Gold,Bills,M,219317
+17010,Jaggaiahpet,14-10-2013,Signature,Entertainment,F,291382
+18026,Pipar City,14-10-2013,Platinum,Entertainment,F,92782
+18877,Pandua,14-10-2013,Silver,Fuel,M,72988
+19905,Singrauli,14-10-2013,Silver,Food,F,28518
+20897,Pune,14-10-2013,Platinum,Grocery,M,22185
+20994,Jaipur,14-10-2013,Silver,Fuel,F,238690
+21495,Lucknow,14-10-2013,Silver,Grocery,F,61893
+21942,Kanpur,14-10-2013,Platinum,Fuel,M,84821
+22740,Kanpur,14-10-2013,Gold,Grocery,M,219728
+22984,Surat,14-10-2013,Gold,Entertainment,M,178699
+24384,Pune,14-10-2013,Gold,Fuel,F,297099
+24423,Chennai,14-10-2013,Platinum,Entertainment,M,44358
+24820,Hyderabad,14-10-2013,Platinum,Entertainment,F,111712
+576,Bengaluru,15-10-2013,Silver,Food,F,291358
+761,Greater Mumbai,15-10-2013,Silver,Food,F,152705
+1564,Ahmedabad,15-10-2013,Platinum,Food,M,53028
+1571,Ahmedabad,15-10-2013,Signature,Food,M,107217
+1731,Bengaluru,15-10-2013,Platinum,Bills,F,154996
+2259,Delhi,15-10-2013,Platinum,Fuel,F,47540
+2412,Ahmedabad,15-10-2013,Signature,Fuel,M,273112
+2677,Ahmedabad,15-10-2013,Signature,Fuel,M,55729
+2825,Greater Mumbai,15-10-2013,Signature,Food,M,35155
+3193,Ahmedabad,15-10-2013,Platinum,Grocery,M,51765
+4776,Bengaluru,15-10-2013,Platinum,Grocery,M,265874
+5069,Delhi,15-10-2013,Platinum,Grocery,M,137925
+5285,Greater Mumbai,15-10-2013,Platinum,Bills,M,229198
+5843,Delhi,15-10-2013,Signature,Bills,F,81072
+7313,Ahmedabad,15-10-2013,Gold,Bills,M,193608
+7579,Bengaluru,15-10-2013,Silver,Grocery,F,45396
+7706,Bengaluru,15-10-2013,Silver,Bills,M,91980
+9238,Greater Mumbai,15-10-2013,Silver,Fuel,F,34279
+9807,Delhi,15-10-2013,Platinum,Entertainment,M,84178
+10152,Bengaluru,15-10-2013,Silver,Bills,F,165781
+10301,Greater Mumbai,15-10-2013,Signature,Grocery,M,39975
+10977,Ahmedabad,15-10-2013,Platinum,Food,F,176911
+11114,Bengaluru,15-10-2013,Signature,Fuel,M,157243
+11187,Bengaluru,15-10-2013,Platinum,Bills,F,297982
+11522,Bengaluru,15-10-2013,Gold,Food,M,37869
+11550,Greater Mumbai,15-10-2013,Gold,Entertainment,M,177019
+12081,Greater Mumbai,15-10-2013,Silver,Food,M,259903
+12185,Ahmedabad,15-10-2013,Signature,Fuel,M,287269
+13046,Greater Mumbai,15-10-2013,Silver,Grocery,F,250931
+13782,Delhi,15-10-2013,Platinum,Bills,M,189793
+14664,Dibrugarh,15-10-2013,Silver,Bills,F,161448
+14820,Ujhani,15-10-2013,Silver,Fuel,M,286585
+15045,Jamshedpur,15-10-2013,Silver,Entertainment,M,13786
+15107,Kolar,15-10-2013,Gold,Grocery,M,66211
+15857,Pathanamthitta,15-10-2013,Signature,Grocery,M,232510
+16446,Salaya,15-10-2013,Gold,Food,M,68123
+16850,Shikarpur Bulandshahr,15-10-2013,Signature,Food,F,134898
+17689,Rahuri,15-10-2013,Gold,Bills,F,259380
+18038,Sadasivpet,15-10-2013,Gold,Entertainment,M,158636
+18203,Davanagere,15-10-2013,Silver,Bills,M,153142
+18678,Nautanwa,15-10-2013,Signature,Food,M,137672
+19015,Paramakudi,15-10-2013,Signature,Food,F,282442
+19666,Mira-Bhayandar,15-10-2013,Platinum,Bills,M,125738
+19681,Rajula,15-10-2013,Signature,Entertainment,F,238561
+20159,Kanpur,15-10-2013,Silver,Food,F,168946
+20947,Lucknow,15-10-2013,Silver,Food,M,27779
+21316,Chennai,15-10-2013,Gold,Fuel,F,17114
+21620,Lucknow,15-10-2013,Platinum,Bills,F,143160
+22298,Kanpur,15-10-2013,Platinum,Bills,F,254980
+22445,Surat,15-10-2013,Signature,Grocery,F,141514
+23164,Surat,15-10-2013,Gold,Food,F,276850
+23679,Lucknow,15-10-2013,Gold,Bills,F,111556
+23864,Lucknow,15-10-2013,Signature,Bills,M,25229
+24291,Hyderabad,15-10-2013,Platinum,Food,F,117828
+635,Greater Mumbai,16-10-2013,Silver,Food,F,152307
+1464,Greater Mumbai,16-10-2013,Platinum,Food,M,147588
+2155,Bengaluru,16-10-2013,Gold,Fuel,F,134871
+3276,Bengaluru,16-10-2013,Signature,Food,M,166199
+4914,Greater Mumbai,16-10-2013,Platinum,Fuel,M,36807
+6948,Bengaluru,16-10-2013,Gold,Food,F,149612
+7401,Ahmedabad,16-10-2013,Silver,Food,F,285372
+9583,Greater Mumbai,16-10-2013,Silver,Entertainment,F,179045
+9652,Greater Mumbai,16-10-2013,Silver,Fuel,F,278494
+9870,Bengaluru,16-10-2013,Signature,Grocery,M,1578
+10518,Greater Mumbai,16-10-2013,Silver,Fuel,M,230642
+10608,Greater Mumbai,16-10-2013,Gold,Fuel,M,103294
+10934,Ahmedabad,16-10-2013,Gold,Grocery,M,207501
+12491,Delhi,16-10-2013,Gold,Fuel,M,114226
+12770,Bengaluru,16-10-2013,Gold,Grocery,F,44905
+13315,Ahmedabad,16-10-2013,Silver,Fuel,F,183607
+14341,Bikaner,16-10-2013,Signature,Grocery,M,147769
+15108,Surat,16-10-2013,Gold,Fuel,F,214401
+15815,Baramula,16-10-2013,Gold,Grocery,M,197150
+16241,Valparai,16-10-2013,Signature,Food,M,235250
+16703,Amreli,16-10-2013,Silver,Grocery,F,27942
+17145,Utraula,16-10-2013,Platinum,Grocery,M,128229
+17450,Palwal,16-10-2013,Platinum,Fuel,M,264115
+18345,Pappinisseri,16-10-2013,Gold,Entertainment,F,193606
+18471,Kaithal,16-10-2013,Silver,Food,F,75990
+18595,Puliyankudi,16-10-2013,Signature,Food,F,55539
+20925,Chennai,16-10-2013,Silver,Fuel,M,49454
+21850,Kolkata,16-10-2013,Platinum,Entertainment,F,195918
+22659,Kolkata,16-10-2013,Silver,Bills,F,25557
+23040,Surat,16-10-2013,Gold,Food,F,203202
+23503,Hyderabad,16-10-2013,Platinum,Fuel,M,131048
+24179,Jaipur,16-10-2013,Platinum,Entertainment,F,269655
+24347,Surat,16-10-2013,Platinum,Food,F,290863
+24841,Lucknow,16-10-2013,Gold,Entertainment,F,11281
+25168,Lucknow,16-10-2013,Signature,Fuel,M,237473
+25215,Hyderabad,16-10-2013,Silver,Food,M,43953
+265,Ahmedabad,17-10-2013,Gold,Bills,F,569582
+607,Bengaluru,17-10-2013,Signature,Food,F,252669
+682,Delhi,17-10-2013,Gold,Food,F,113433
+3001,Greater Mumbai,17-10-2013,Signature,Bills,M,7795
+3060,Bengaluru,17-10-2013,Gold,Food,F,51857
+3557,Delhi,17-10-2013,Silver,Food,M,34349
+3604,Delhi,17-10-2013,Gold,Food,M,66800
+3727,Delhi,17-10-2013,Signature,Bills,F,25281
+3856,Bengaluru,17-10-2013,Signature,Grocery,F,70762
+4328,Bengaluru,17-10-2013,Platinum,Entertainment,F,249888
+6098,Bengaluru,17-10-2013,Signature,Entertainment,F,60190
+6114,Ahmedabad,17-10-2013,Signature,Entertainment,M,145939
+7173,Ahmedabad,17-10-2013,Signature,Food,F,135124
+8953,Delhi,17-10-2013,Silver,Grocery,M,294101
+9962,Ahmedabad,17-10-2013,Signature,Food,F,144766
+10661,Bengaluru,17-10-2013,Signature,Fuel,M,141707
+11913,Delhi,17-10-2013,Gold,Grocery,F,102262
+12348,Greater Mumbai,17-10-2013,Platinum,Grocery,F,134850
+12465,Greater Mumbai,17-10-2013,Gold,Entertainment,F,215265
+13425,Delhi,17-10-2013,Gold,Entertainment,M,69575
+14026,Sohna,17-10-2013,Silver,Entertainment,F,28616
+14380,Diphu,17-10-2013,Gold,Entertainment,F,169151
+14584,Samastipur,17-10-2013,Silver,Entertainment,M,140601
+14671,Amreli,17-10-2013,Signature,Fuel,F,68138
+15505,Siddipet,17-10-2013,Silver,Food,M,144609
+15673,Dhubri,17-10-2013,Platinum,Food,F,62947
+17318,Rabkavi Banhatti,17-10-2013,Gold,Entertainment,M,20746
+17781,Pathri,17-10-2013,Silver,Grocery,F,65220
+18464,Mohali,17-10-2013,Signature,Food,M,36680
+18889,Ahmedabad,17-10-2013,Platinum,Grocery,F,282499
+19388,Mangrol,17-10-2013,Gold,Grocery,M,130566
+19544,Tiruvannamalai,17-10-2013,Silver,Food,F,223778
+19660,Kakinada,17-10-2013,Silver,Bills,F,155208
+20329,Lucknow,17-10-2013,Silver,Entertainment,M,266152
+20372,Lucknow,17-10-2013,Silver,Grocery,F,128056
+20393,Lucknow,17-10-2013,Silver,Entertainment,F,245108
+20742,Surat,17-10-2013,Platinum,Bills,M,187133
+20926,Chennai,17-10-2013,Gold,Bills,F,280413
+21844,Chennai,17-10-2013,Platinum,Entertainment,M,26864
+23213,Lucknow,17-10-2013,Platinum,Fuel,F,189223
+23517,Surat,17-10-2013,Platinum,Grocery,F,66288
+25086,Pune,17-10-2013,Gold,Bills,F,142247
+435,Greater Mumbai,18-10-2013,Gold,Bills,F,188856
+538,Bengaluru,18-10-2013,Signature,Food,F,2397
+1378,Bengaluru,18-10-2013,Signature,Food,F,142140
+1815,Ahmedabad,18-10-2013,Signature,Fuel,M,277592
+2231,Ahmedabad,18-10-2013,Signature,Fuel,M,192720
+2763,Bengaluru,18-10-2013,Silver,Entertainment,M,120914
+2767,Ahmedabad,18-10-2013,Platinum,Grocery,F,139167
+3470,Bengaluru,18-10-2013,Gold,Bills,M,90997
+3821,Greater Mumbai,18-10-2013,Platinum,Grocery,F,149560
+5500,Ahmedabad,18-10-2013,Gold,Fuel,F,12595
+7585,Delhi,18-10-2013,Silver,Entertainment,M,241577
+8980,Ahmedabad,18-10-2013,Signature,Bills,M,229087
+11743,Delhi,18-10-2013,Platinum,Fuel,F,187705
+12105,Ahmedabad,18-10-2013,Platinum,Grocery,F,130626
+12333,Delhi,18-10-2013,Signature,Grocery,M,39183
+12350,Ahmedabad,18-10-2013,Signature,Bills,F,222885
+12935,Delhi,18-10-2013,Signature,Grocery,F,292591
+13365,Delhi,18-10-2013,Signature,Entertainment,F,68008
+13430,Bengaluru,18-10-2013,Signature,Entertainment,M,236169
+13736,Greater Mumbai,18-10-2013,Signature,Fuel,M,14477
+13842,Bengaluru,18-10-2013,Silver,Bills,F,53610
+14602,Thiruvallur,18-10-2013,Gold,Food,M,113190
+15226,Nawanshahr,18-10-2013,Silver,Food,M,161821
+15428,Malavalli,18-10-2013,Silver,Bills,M,36885
+15728,Kapurthala,18-10-2013,Signature,Food,M,232043
+16568,Kendujhar,18-10-2013,Gold,Bills,M,144380
+16730,Raisinghnagar,18-10-2013,Gold,Fuel,M,209216
+17014,Kalyan-Dombivali,18-10-2013,Signature,Grocery,M,95187
+18199,Jammu,18-10-2013,Platinum,Food,F,285722
+18385,Rudauli,18-10-2013,Silver,Food,M,275863
+19326,Ichalkaranji,18-10-2013,Platinum,Entertainment,F,249491
+20807,Pune,18-10-2013,Silver,Bills,M,164513
+20816,Hyderabad,18-10-2013,Platinum,Entertainment,F,85915
+20984,Chennai,18-10-2013,Silver,Bills,M,13861
+21375,Jaipur,18-10-2013,Gold,Entertainment,F,197386
+21627,Jaipur,18-10-2013,Platinum,Entertainment,M,271448
+23882,Lucknow,18-10-2013,Silver,Bills,F,87760
+25809,Hyderabad,18-10-2013,Silver,Travel,F,111237
+2112,Bengaluru,19-10-2013,Signature,Fuel,M,274621
+2428,Ahmedabad,19-10-2013,Platinum,Fuel,F,247988
+3677,Ahmedabad,19-10-2013,Gold,Bills,M,35078
+3931,Ahmedabad,19-10-2013,Signature,Grocery,M,157847
+3991,Ahmedabad,19-10-2013,Platinum,Food,M,242564
+4198,Greater Mumbai,19-10-2013,Silver,Fuel,F,270760
+4519,Greater Mumbai,19-10-2013,Platinum,Entertainment,M,191660
+5723,Bengaluru,19-10-2013,Silver,Entertainment,F,38908
+6086,Bengaluru,19-10-2013,Silver,Entertainment,M,223780
+6216,Delhi,19-10-2013,Gold,Fuel,F,23786
+6733,Delhi,19-10-2013,Silver,Food,F,252647
+6972,Ahmedabad,19-10-2013,Signature,Food,F,79984
+8615,Delhi,19-10-2013,Signature,Bills,M,241646
+10031,Greater Mumbai,19-10-2013,Platinum,Entertainment,F,32373
+10569,Greater Mumbai,19-10-2013,Signature,Grocery,F,270228
+11171,Greater Mumbai,19-10-2013,Silver,Grocery,F,106714
+11417,Greater Mumbai,19-10-2013,Platinum,Fuel,F,244141
+11887,Delhi,19-10-2013,Signature,Entertainment,M,46974
+12028,Bengaluru,19-10-2013,Platinum,Food,M,109746
+12721,Ahmedabad,19-10-2013,Gold,Bills,M,110647
+15629,Pratapgarh,19-10-2013,Platinum,Fuel,F,183390
+15768,Gurdaspur,19-10-2013,Signature,Bills,M,229630
+16463,Unnao,19-10-2013,Signature,Food,M,47243
+18344,Visakhapatnam,19-10-2013,Gold,Fuel,F,279623
+18832,Sangaria,19-10-2013,Signature,Food,M,184347
+19142,Malappuram,19-10-2013,Gold,Entertainment,M,87942
+19567,Narasapuram,19-10-2013,Gold,Entertainment,M,204959
+19759,Osmanabad,19-10-2013,Gold,Bills,M,239468
+20002,Jaipur,19-10-2013,Platinum,Entertainment,F,127370
+20044,Chennai,19-10-2013,Signature,Grocery,M,197556
+21852,Surat,19-10-2013,Signature,Entertainment,M,108481
+22284,Jaipur,19-10-2013,Gold,Bills,M,161865
+23711,Jaipur,19-10-2013,Gold,Food,F,242798
+23766,Pune,19-10-2013,Silver,Bills,M,222712
+24467,Jaipur,19-10-2013,Silver,Bills,F,24544
+24487,Hyderabad,19-10-2013,Platinum,Entertainment,F,90553
+26051,Hyderabad,19-10-2013,Signature,Bills,M,184410
+474,Ahmedabad,20-10-2013,Signature,Food,F,13879
+1001,Ahmedabad,20-10-2013,Silver,Food,F,185621
+1159,Bengaluru,20-10-2013,Silver,Food,F,255722
+1255,Greater Mumbai,20-10-2013,Signature,Food,F,252192
+1973,Bengaluru,20-10-2013,Platinum,Entertainment,M,239791
+2427,Bengaluru,20-10-2013,Signature,Fuel,M,111559
+2579,Greater Mumbai,20-10-2013,Signature,Fuel,F,218478
+3936,Bengaluru,20-10-2013,Silver,Food,M,148421
+4292,Greater Mumbai,20-10-2013,Silver,Fuel,F,267884
+4325,Greater Mumbai,20-10-2013,Silver,Entertainment,F,214937
+4506,Ahmedabad,20-10-2013,Signature,Bills,F,99631
+4978,Delhi,20-10-2013,Gold,Fuel,M,218541
+5747,Ahmedabad,20-10-2013,Platinum,Fuel,M,127914
+6842,Bengaluru,20-10-2013,Platinum,Entertainment,F,72895
+7131,Ahmedabad,20-10-2013,Silver,Food,F,42521
+8443,Greater Mumbai,20-10-2013,Silver,Entertainment,M,117639
+9038,Delhi,20-10-2013,Platinum,Grocery,F,16038
+9088,Delhi,20-10-2013,Gold,Grocery,M,264192
+11068,Delhi,20-10-2013,Gold,Grocery,F,276444
+11784,Bengaluru,20-10-2013,Signature,Entertainment,F,133243
+11830,Bengaluru,20-10-2013,Signature,Grocery,F,250663
+12056,Delhi,20-10-2013,Signature,Entertainment,M,19797
+12671,Bengaluru,20-10-2013,Signature,Grocery,M,173784
+13562,Ahmedabad,20-10-2013,Gold,Grocery,M,48619
+13703,Ahmedabad,20-10-2013,Platinum,Grocery,M,178894
+13773,Greater Mumbai,20-10-2013,Silver,Entertainment,F,267667
+13867,Delhi,20-10-2013,Silver,Grocery,M,85901
+13997,Mavoor,20-10-2013,Platinum,Food,F,135496
+14309,Sagar,20-10-2013,Signature,Grocery,M,25132
+15733,Sirhind Fatehgarh Sahib,20-10-2013,Gold,Bills,F,210467
+16123,Suar,20-10-2013,Gold,Fuel,F,3328
+16134,Khair,20-10-2013,Silver,Fuel,M,63587
+16161,Firozpur Cantt.,20-10-2013,Silver,Grocery,F,247385
+17382,Bhuj,20-10-2013,Gold,Grocery,M,57858
+17702,Mahasamund,20-10-2013,Silver,Entertainment,F,44627
+18012,Adoor,20-10-2013,Signature,Food,M,68185
+18795,Hyderabad,20-10-2013,Silver,Bills,F,172571
+19055,Habra,20-10-2013,Platinum,Bills,F,181452
+19268,Jhansi,20-10-2013,Gold,Fuel,M,289358
+19618,Talaja,20-10-2013,Signature,Fuel,F,119093
+19771,Adilabad,20-10-2013,Signature,Food,M,80193
+21191,Chennai,20-10-2013,Signature,Grocery,F,41350
+22677,Kolkata,20-10-2013,Signature,Grocery,F,82476
+23730,Kanpur,20-10-2013,Signature,Bills,F,223317
+24188,Chennai,20-10-2013,Signature,Bills,F,297436
+24749,Pune,20-10-2013,Platinum,Grocery,M,159673
+24835,Hyderabad,20-10-2013,Silver,Bills,M,100283
+24942,Hyderabad,20-10-2013,Gold,Entertainment,F,150584
+25648,Kanpur,20-10-2013,Platinum,Travel,F,44548
+113,Bengaluru,21-10-2013,Platinum,Bills,F,382191
+1717,Delhi,21-10-2013,Platinum,Bills,F,12303
+3217,Ahmedabad,21-10-2013,Gold,Entertainment,M,126336
+3283,Greater Mumbai,21-10-2013,Signature,Grocery,F,269682
+3363,Delhi,21-10-2013,Platinum,Entertainment,F,49877
+3372,Ahmedabad,21-10-2013,Gold,Bills,F,195523
+4208,Delhi,21-10-2013,Signature,Food,F,143972
+5085,Bengaluru,21-10-2013,Gold,Fuel,F,150431
+5448,Bengaluru,21-10-2013,Gold,Bills,F,290022
+6197,Greater Mumbai,21-10-2013,Gold,Food,M,72294
+6312,Greater Mumbai,21-10-2013,Silver,Entertainment,M,54416
+6374,Ahmedabad,21-10-2013,Platinum,Food,M,257894
+7184,Greater Mumbai,21-10-2013,Signature,Fuel,M,160559
+7589,Ahmedabad,21-10-2013,Gold,Fuel,F,109151
+8281,Delhi,21-10-2013,Signature,Grocery,F,185552
+8492,Ahmedabad,21-10-2013,Platinum,Fuel,M,73351
+9132,Ahmedabad,21-10-2013,Platinum,Grocery,F,67116
+9896,Bengaluru,21-10-2013,Silver,Bills,M,80346
+10174,Ahmedabad,21-10-2013,Silver,Bills,M,199305
+10671,Delhi,21-10-2013,Signature,Grocery,F,101205
+11967,Greater Mumbai,21-10-2013,Platinum,Fuel,F,156242
+12273,Ahmedabad,21-10-2013,Silver,Bills,M,6528
+13215,Ahmedabad,21-10-2013,Gold,Fuel,M,36310
+14809,Shivpuri,21-10-2013,Gold,Entertainment,F,278217
+17595,Nilanga,21-10-2013,Platinum,Fuel,F,6135
+18182,Adilabad,21-10-2013,Signature,Grocery,F,258225
+18794,Rosera,21-10-2013,Platinum,Fuel,M,143257
+18934,Shahabad Rampur,21-10-2013,Gold,Entertainment,F,3284
+18939,Thrissur,21-10-2013,Silver,Bills,M,108656
+19110,Mokokchung,21-10-2013,Silver,Grocery,M,293776
+19522,Neyyattinkara,21-10-2013,Silver,Fuel,F,36878
+19694,Mavoor,21-10-2013,Platinum,Grocery,M,124111
+20061,Surat,21-10-2013,Silver,Bills,M,180608
+20726,Pune,21-10-2013,Platinum,Bills,M,118498
+20980,Surat,21-10-2013,Platinum,Fuel,F,214656
+21189,Jaipur,21-10-2013,Signature,Bills,M,125309
+23245,Kanpur,21-10-2013,Signature,Fuel,F,56739
+24375,Chennai,21-10-2013,Silver,Food,M,22872
+25826,Kanpur,21-10-2013,Silver,Travel,F,43208
+110,Greater Mumbai,22-10-2013,Signature,Bills,F,978301
+406,Ahmedabad,22-10-2013,Gold,Bills,F,20032
+488,Greater Mumbai,22-10-2013,Platinum,Food,F,95741
+527,Bengaluru,22-10-2013,Gold,Food,F,125290
+696,Delhi,22-10-2013,Platinum,Food,F,120780
+920,Greater Mumbai,22-10-2013,Silver,Grocery,F,218315
+1522,Greater Mumbai,22-10-2013,Silver,Food,F,234204
+2872,Greater Mumbai,22-10-2013,Platinum,Bills,M,190123
+3790,Delhi,22-10-2013,Silver,Bills,F,204049
+6041,Bengaluru,22-10-2013,Signature,Fuel,M,7450
+6401,Ahmedabad,22-10-2013,Signature,Bills,F,270108
+7973,Greater Mumbai,22-10-2013,Gold,Grocery,F,286012
+8071,Delhi,22-10-2013,Platinum,Grocery,M,29599
+8159,Delhi,22-10-2013,Platinum,Bills,F,282066
+9130,Greater Mumbai,22-10-2013,Gold,Food,F,139453
+9728,Greater Mumbai,22-10-2013,Gold,Entertainment,F,56072
+9901,Delhi,22-10-2013,Gold,Food,F,264308
+9929,Bengaluru,22-10-2013,Platinum,Food,F,253977
+10316,Ahmedabad,22-10-2013,Signature,Grocery,F,148558
+10457,Delhi,22-10-2013,Signature,Entertainment,M,90584
+10804,Delhi,22-10-2013,Platinum,Entertainment,F,268300
+10863,Delhi,22-10-2013,Gold,Fuel,M,114384
+11186,Delhi,22-10-2013,Gold,Entertainment,F,159090
+12521,Delhi,22-10-2013,Signature,Entertainment,F,267427
+12573,Ahmedabad,22-10-2013,Signature,Bills,F,216592
+12861,Bengaluru,22-10-2013,Platinum,Bills,M,121122
+13840,Delhi,22-10-2013,Gold,Food,F,77358
+13953,Ahmedabad,22-10-2013,Signature,Entertainment,M,173612
+14756,Diphu,22-10-2013,Platinum,Bills,M,107624
+15586,Oddanchatram,22-10-2013,Signature,Grocery,F,183734
+16613,Rajampet,22-10-2013,Silver,Entertainment,M,194635
+16890,Pattukkottai,22-10-2013,Gold,Fuel,F,294583
+18143,Udaipur,22-10-2013,Signature,Food,M,218427
+18155,Taranagar,22-10-2013,Signature,Bills,M,138809
+18911,Ramganj Mandi,22-10-2013,Platinum,Grocery,M,61831
+22087,Lucknow,22-10-2013,Gold,Entertainment,M,207941
+22647,Lucknow,22-10-2013,Platinum,Entertainment,F,249765
+22726,Pune,22-10-2013,Platinum,Fuel,F,102912
+24276,Chennai,22-10-2013,Platinum,Food,F,284232
+25305,Lucknow,22-10-2013,Signature,Entertainment,F,198077
+25897,Lucknow,22-10-2013,Silver,Travel,M,150497
+1432,Bengaluru,23-10-2013,Platinum,Food,F,298243
+1928,Ahmedabad,23-10-2013,Gold,Grocery,M,132728
+2977,Delhi,23-10-2013,Silver,Bills,M,155862
+3011,Bengaluru,23-10-2013,Platinum,Grocery,F,231686
+3348,Bengaluru,23-10-2013,Gold,Entertainment,F,127212
+3580,Ahmedabad,23-10-2013,Silver,Grocery,F,67821
+4014,Greater Mumbai,23-10-2013,Gold,Food,M,113440
+4108,Bengaluru,23-10-2013,Gold,Fuel,M,170921
+5373,Ahmedabad,23-10-2013,Silver,Food,F,259535
+5598,Greater Mumbai,23-10-2013,Signature,Food,F,183818
+5670,Greater Mumbai,23-10-2013,Platinum,Entertainment,M,58406
+5751,Greater Mumbai,23-10-2013,Signature,Grocery,M,59382
+6198,Greater Mumbai,23-10-2013,Platinum,Fuel,M,247443
+7079,Ahmedabad,23-10-2013,Signature,Fuel,M,231815
+7132,Greater Mumbai,23-10-2013,Platinum,Entertainment,M,15782
+7386,Bengaluru,23-10-2013,Signature,Fuel,M,272517
+8057,Bengaluru,23-10-2013,Platinum,Fuel,F,195440
+8302,Delhi,23-10-2013,Gold,Grocery,M,154800
+8463,Ahmedabad,23-10-2013,Platinum,Grocery,M,23366
+8864,Delhi,23-10-2013,Silver,Food,F,283859
+8938,Delhi,23-10-2013,Signature,Food,M,133834
+9243,Delhi,23-10-2013,Platinum,Fuel,F,241636
+9355,Greater Mumbai,23-10-2013,Signature,Bills,F,78746
+10972,Ahmedabad,23-10-2013,Signature,Food,F,262063
+11482,Delhi,23-10-2013,Gold,Fuel,F,173587
+11497,Delhi,23-10-2013,Platinum,Food,M,2997
+12473,Ahmedabad,23-10-2013,Silver,Bills,F,116903
+13270,Ahmedabad,23-10-2013,Gold,Entertainment,F,299495
+13616,Delhi,23-10-2013,Signature,Food,M,271803
+13799,Greater Mumbai,23-10-2013,Gold,Food,M,136328
+14215,Kozhikode,23-10-2013,Platinum,Fuel,M,220052
+14841,Nangal,23-10-2013,Platinum,Food,M,245686
+15017,Lakhisarai,23-10-2013,Platinum,Bills,M,123698
+15047,Wardha,23-10-2013,Signature,Bills,F,46228
+15437,Sumerpur,23-10-2013,Platinum,Fuel,F,4592
+15458,Surapura,23-10-2013,Gold,Food,F,191508
+16358,Sanawad,23-10-2013,Gold,Grocery,M,117373
+17237,Sirsa,23-10-2013,Gold,Bills,F,199459
+17509,Tiruppur,23-10-2013,Silver,Food,M,82122
+17588,Manjlegaon,23-10-2013,Platinum,Entertainment,F,220166
+18086,Umarga,23-10-2013,Silver,Food,F,233967
+18225,Panruti,23-10-2013,Silver,Grocery,M,82503
+19881,Rampurhat,23-10-2013,Gold,Food,F,196747
+20169,Surat,23-10-2013,Silver,Bills,M,28965
+20215,Kanpur,23-10-2013,Signature,Fuel,F,84892
+20721,Hyderabad,23-10-2013,Platinum,Entertainment,M,198227
+20978,Kolkata,23-10-2013,Gold,Entertainment,M,246849
+21143,Jaipur,23-10-2013,Signature,Bills,F,167379
+24095,Surat,23-10-2013,Gold,Grocery,F,114985
+24516,Kanpur,23-10-2013,Silver,Grocery,F,28004
+24678,Lucknow,23-10-2013,Signature,Food,M,51724
+25340,Surat,23-10-2013,Signature,Travel,M,115278
+25342,Kanpur,23-10-2013,Gold,Travel,F,97330
+25613,Surat,23-10-2013,Platinum,Travel,M,12510
+25812,Chennai,23-10-2013,Platinum,Travel,F,178975
+1354,Bengaluru,24-10-2013,Silver,Food,F,107100
+2246,Greater Mumbai,24-10-2013,Platinum,Fuel,M,16449
+2347,Bengaluru,24-10-2013,Gold,Fuel,M,95578
+2545,Delhi,24-10-2013,Gold,Fuel,F,173318
+2757,Bengaluru,24-10-2013,Silver,Bills,F,73331
+2863,Ahmedabad,24-10-2013,Silver,Entertainment,F,261231
+4347,Greater Mumbai,24-10-2013,Gold,Fuel,F,224271
+5582,Greater Mumbai,24-10-2013,Gold,Food,M,9201
+5870,Bengaluru,24-10-2013,Silver,Fuel,F,111010
+7014,Ahmedabad,24-10-2013,Signature,Grocery,F,22951
+7146,Greater Mumbai,24-10-2013,Silver,Entertainment,M,41362
+7216,Greater Mumbai,24-10-2013,Platinum,Food,F,202674
+7588,Delhi,24-10-2013,Silver,Fuel,M,154525
+7861,Ahmedabad,24-10-2013,Silver,Bills,M,79956
+8875,Ahmedabad,24-10-2013,Silver,Entertainment,M,260339
+8897,Ahmedabad,24-10-2013,Platinum,Bills,M,41095
+9264,Bengaluru,24-10-2013,Platinum,Grocery,F,204207
+10195,Delhi,24-10-2013,Signature,Entertainment,F,157217
+10200,Delhi,24-10-2013,Platinum,Grocery,F,14500
+10392,Delhi,24-10-2013,Signature,Bills,F,4042
+11587,Greater Mumbai,24-10-2013,Platinum,Entertainment,M,99114
+13140,Ahmedabad,24-10-2013,Silver,Fuel,M,200707
+13526,Bengaluru,24-10-2013,Signature,Bills,M,250495
+14126,Lahar,24-10-2013,Signature,Food,F,125489
+14160,Vikramasingapuram,24-10-2013,Platinum,Food,M,93207
+15565,Nautanwa,24-10-2013,Signature,Food,M,298676
+16737,Guwahati,24-10-2013,Silver,Food,M,195631
+17649,Madhugiri,24-10-2013,Platinum,Entertainment,M,282820
+18064,Tanuku,24-10-2013,Platinum,Entertainment,M,295361
+18185,Nawada,24-10-2013,Signature,Bills,F,238484
+18297,Ichalkaranji,24-10-2013,Signature,Grocery,M,158217
+18306,Kunnamkulam,24-10-2013,Gold,Grocery,F,216428
+19392,Shahjahanpur,24-10-2013,Silver,Food,F,149653
+19810,Keshod,24-10-2013,Gold,Bills,F,55571
+19830,Koyilandy,24-10-2013,Signature,Grocery,F,277060
+20879,Pune,24-10-2013,Platinum,Bills,F,20258
+20891,Jaipur,24-10-2013,Signature,Entertainment,M,57644
+21116,Lucknow,24-10-2013,Platinum,Entertainment,M,289907
+21594,Chennai,24-10-2013,Platinum,Food,F,150527
+22135,Kanpur,24-10-2013,Platinum,Fuel,F,284676
+22308,Pune,24-10-2013,Signature,Bills,F,62779
+23559,Surat,24-10-2013,Platinum,Grocery,M,160001
+23574,Jaipur,24-10-2013,Gold,Fuel,M,232754
+24040,Chennai,24-10-2013,Platinum,Entertainment,F,108919
+24301,Surat,24-10-2013,Signature,Bills,M,79717
+25069,Hyderabad,24-10-2013,Signature,Food,M,11994
+25240,Surat,24-10-2013,Silver,Bills,M,6191
+25874,Surat,24-10-2013,Platinum,Travel,M,93132
+161,Delhi,25-10-2013,Signature,Bills,F,576994
+1398,Bengaluru,25-10-2013,Signature,Food,F,225578
+1611,Delhi,25-10-2013,Silver,Grocery,M,38793
+2378,Ahmedabad,25-10-2013,Signature,Fuel,F,132803
+2407,Bengaluru,25-10-2013,Platinum,Fuel,M,67613
+2704,Greater Mumbai,25-10-2013,Silver,Food,F,296385
+3004,Greater Mumbai,25-10-2013,Signature,Bills,F,70885
+3238,Bengaluru,25-10-2013,Silver,Entertainment,F,30391
+4244,Delhi,25-10-2013,Silver,Grocery,M,247715
+5117,Delhi,25-10-2013,Silver,Entertainment,M,233984
+5170,Bengaluru,25-10-2013,Gold,Grocery,F,271783
+5885,Greater Mumbai,25-10-2013,Silver,Bills,F,154879
+7982,Greater Mumbai,25-10-2013,Silver,Fuel,M,181094
+8114,Greater Mumbai,25-10-2013,Gold,Bills,M,4303
+8565,Greater Mumbai,25-10-2013,Platinum,Bills,F,210484
+9784,Greater Mumbai,25-10-2013,Platinum,Food,M,3656
+11094,Delhi,25-10-2013,Platinum,Grocery,M,227074
+11142,Delhi,25-10-2013,Platinum,Entertainment,M,244029
+11624,Ahmedabad,25-10-2013,Platinum,Entertainment,M,75745
+11647,Greater Mumbai,25-10-2013,Gold,Bills,M,237660
+11702,Greater Mumbai,25-10-2013,Silver,Fuel,F,91450
+11942,Bengaluru,25-10-2013,Signature,Food,F,42802
+11997,Ahmedabad,25-10-2013,Silver,Grocery,M,40749

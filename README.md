@@ -2,7 +2,10 @@
 
 Advanced SQL analysis of **26,051** real credit card transactions across major Indian cities, exploring spending patterns by **city, card type, expense category, gender, and time.**
 
-## 📊 Dataset## 📑 Table of Contents
+## 📊 Dataset##
+
+**📑 Table of Contents**
+
 - [Dataset](#-dataset)
 - [Tools Used](#️-tools-used)
 - [Data Cleaning](#-data-cleaning)

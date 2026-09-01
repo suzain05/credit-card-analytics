@@ -1,1 +1,1 @@
-## Credit Card Spending Analytics — India (SQL)
+## CREDIT CARD SPENDING ANALYTICS — INDIA (SQL)

@@ -60,17 +60,19 @@ Running cumulative totals, city spend rankings, per-transaction contribution to 
 | Month-over-month growth | [View](./screenshots/Month-over-month%20growth.png) |
 | Female spend % by category | [View](./screenshots/Female%20spend%20%25%20by%20category.png) |
 
-## 💡 Key Findings
- 
-- **Top-spending city:** [CITY] accounted for total_spend, avg_transaction
-'Female, '2205311030', '161206.9466'
-'M', '1869522343', '151109.1451'
-]% of total spend *(Query 5)*
-- **Most-used card type by spend:** [CARD TYPE] *(Query 2)*
-- **Highest-spend category:** [EXPENSE TYPE] with ₹[AMOUNT] across [N] transactions *(Query 3)*
-- **Gender split:** [Male/Female] average transaction was ₹[AMOUNT] higher *(Query 4)*
-- **Peak spending month:** [MONTH] *(Query 8)*
-- **Weekend vs weekday:** [Weekend/Weekday] transactions were higher on average *(Query 10)*
+ ## 💡 Key Findings
+
+* Top-spending city: Greater Mumbai accounted for 14.05% of total spend (Query 5)
+
+* Most-used card type by spend: Silver (Query 2)
+
+* Highest-spend category: Bills with ₹[AMOUNT] across [N] transactions (Query 3)
+
+* Gender split: [Male/Female] average transaction was ₹[AMOUNT] higher (Query 4)
+
+* Peak spending month: March 2015 (Query 8)
+
+* Weekend vs weekday: [Weekend/Weekday] transactions were higher on average (Query 10)
 
 
   ## 📁 Repo Structure

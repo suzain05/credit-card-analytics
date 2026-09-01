@@ -17,3 +17,8 @@ Advanced SQL analysis of **26,051** real credit card transactions across major I
 - **Source:** [Credit Card Spending Habits in India — Kaggle](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)
 - **Size:** 26,051 rows
 - **Columns:** `id`, `City`, `txn_date`, `card_type` (Silver/Gold/Platinum/Signature), `expense_type` (Bills, Food, Fuel, Travel, Entertainment, Grocery), `Gender`, `Amount`
+
+## 🛠️ Tools Used
+
+- MySQL Workbench
+- SQL: window functions, CTEs, subqueries, aggregations
